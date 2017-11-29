@@ -1,0 +1,42 @@
+ html,
+ body {
+    font-family: Verdana, sans-serif;
+    font-size: 15px;
+    line-height: 1.5em;
+}
+.my-blue{
+    color: #fff;
+    background-color: #2196F3;
+}
+.my-bar {
+    width: 100%;
+    overflow: hidden;
+}
+.my-bar-item {
+    padding: 8px 16px;
+    float: left;
+    background-color: inherit;
+    color: inherit;
+    width: auto;
+    border: none;
+    outline: none;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+}
+.my-button {
+    background-color: inherit;
+    color: inherit;
+    white-space: normal;
+}
+.my-button:hover {
+    color: #000;
+    background-color: #ccc;
+}
+.my-content {
+    max-width: 980px;
+    margin: auto;
+}
+.my-justify {
+    text-align: justify;
+}
